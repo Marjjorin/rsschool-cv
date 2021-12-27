@@ -6,8 +6,41 @@
 
 *Telegram:* @marjorin
 
+---
+**about me**
 
+I want to become a frontend developer. I like to study and learn something new. I want to have a good job.
 
+---
+**my skills**
+
+* VS Code
+* HTML5
+* CSS3
+* Git
+
+---
+**code example**
+
+```
+function multiply(a, b){
+  return a * b
+}
+```
+---
+**work experience**
+
+I am currently studying. I believe that I will succeed.
+
+---
+**education**
+
+bachelor's degree in journalism
+
+---
+**language**
+
+Pre-Intermediate
 
 
 
